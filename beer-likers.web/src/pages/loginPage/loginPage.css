@@ -1,0 +1,22 @@
+.container {
+    background-color: #fff;
+}
+
+.row {
+    margin-top: 1rem;
+    border: #2a2a2a 1px solid;
+    display: flex;
+    flex-direction: column;
+}
+
+.m1 {
+    margin: 1rem;
+}
+
+.dont-like-beer {
+    color: red;
+}
+
+.like-beer {
+    color: green;
+}
